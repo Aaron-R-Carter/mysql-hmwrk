@@ -4,7 +4,7 @@ USE managment_db;
 
 CREATE TABLE employee(
 first_name varchar(30),
-last_name varchar(30),
+last_name varchar(30)
 );
 
 CREATE TABLE department(
